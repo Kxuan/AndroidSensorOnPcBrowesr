@@ -1,0 +1,34 @@
+fonts
+-----
+capsuula				http://www.fontsquirrel.com/fonts/capsuula
+
+sounds
+------
+shotgun_fire			http://freesound.org/people/Pyrocamancer/sounds/137034/
+door_close				http://freesound.org/people/BlenderDiplom/sounds/201094/
+door_open				http://freesound.org/people/ToniTobe/sounds/233307/
+pickup_item				http://freesound.org/people/Velvorn/sounds/95772/
+pickup_ammo				http://freesound.org/people/thecluegeek/sounds/141364/
+pickup_weapon			http://freesound.org/people/thecluegeek/sounds/141364/
+hyper_blaster_hit		http://freesound.org/people/Kastenfrosch/sounds/162455/
+hyper_blaster_fire		http://freesound.org/people/Supraliminal/sounds/77087/
+monster_roar			http://opengameart.org/content/monster-sound-effects-pack
+monster_pain			http://freesound.org/people/EricSueiro/sounds/220823/
+monster_bite			http://freesound.org/people/MrPokephile/sounds/155973/
+eye_charging			http://freesound.org/people/tec%20studios/sounds/99627/
+player_death			http://freesound.org/people/insanity54/sounds/203594/
+monster_death			http://freesound.org/people/scorpion67890/sounds/151710/
+switch_on				http://freesound.org/people/Alvinwhatup2/sounds/131599/
+						http://opengameart.org/content/beep-sound
+elevator_move			http://freesound.org/people/Skullsmasha/sounds/123253/
+elevator_stop			http://freesound.org/people/Skullsmasha/sounds/123253/
+
+music
+-----
+simple_action_beat		http://opengameart.org/content/simple-action-beat
+angry_robot_3			http://www.nosoapradio.us/
+tower_defense_theme		http://opengameart.org/content/tower-defense-theme
+
+skybox
+------
+http://alexcpeterson.com/spacescape
